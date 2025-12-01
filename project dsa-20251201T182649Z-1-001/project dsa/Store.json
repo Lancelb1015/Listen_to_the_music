@@ -1,0 +1,109 @@
+{
+    "Tracks": [
+        {
+            "id": 1,
+            "title": "Love Story",
+            "artist": "Taylor Swift",
+            "album": "Fearless",
+            "duration": "235"
+        },
+        {
+            "id": 2,
+            "title": "You Belong With Me",
+            "artist": "Taylor Swift",
+            "album": "Fearless",
+            "duration": "221"
+        },
+        {
+            "id": 3,
+            "title": "Blank Space",
+            "artist": "Taylor Swift",
+            "album": "1989",
+            "duration": "231"
+        },
+        {
+            "id": 4,
+            "title": "Shake It Off",
+            "artist": "Taylor Swift",
+            "album": "1989",
+            "duration": "219"
+        },
+        {
+            "id": 5,
+            "title": "Cardigan",
+            "artist": "Taylor Swift",
+            "album": "Folklore",
+            "duration": "240"
+        },
+        {
+            "id": 6,
+            "title": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "album": "Lover",
+            "duration": "178"
+        },
+        {
+            "id": 7,
+            "title": "wow",
+            "artist": "bibot",
+            "album": "ey",
+            "duration": "1380"
+        }
+    ],
+    "Playlists": [
+        {
+            "Favorites": [
+                {
+                    "id": 1,
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "album": "Fearless",
+                    "duration": "235"
+                },
+                {
+                    "id": 3,
+                    "title": "Blank Space",
+                    "artist": "Taylor Swift",
+                    "album": "1989",
+                    "duration": "231"
+                },
+                {
+                    "id": 6,
+                    "title": "Cruel Summer",
+                    "artist": "Taylor Swift",
+                    "album": "Lover",
+                    "duration": "178"
+                }
+            ]
+        },
+        {
+            "1989 Era": [
+                {
+                    "id": 3,
+                    "title": "Blank Space",
+                    "artist": "Taylor Swift",
+                    "album": "1989",
+                    "duration": "231"
+                },
+                {
+                    "id": 4,
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "album": "1989",
+                    "duration": "219"
+                }
+            ]
+        },
+        {
+            "Relax": [
+                {
+                    "id": 5,
+                    "title": "Cardigan",
+                    "artist": "Taylor Swift",
+                    "album": "Folklore",
+                    "duration": "240"
+                }
+            ]
+        }
+    ]
+}
